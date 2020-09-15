@@ -9,3 +9,7 @@ iron is still under development. Some basic features/options though are already 
 
 ![Screenshot 1](screenshots/cmd_s6ovZiio7v.png)
 ![Screenshot 2](screenshots/cmd_H9xs09mF6b.png)
+
+# Options
+
+**Coming soon...**
